@@ -1,5 +1,8 @@
 
 
+<div align="center">
+
+
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
@@ -9,7 +12,7 @@
 <div>
   <div align=center>
       <img height="200" alt="Avatar photo of KK10" src="https://avatars.githubusercontent.com/u/200099880?s=400&u=45710fef2e7d5bf1c1e13f37d5838595858a5a1f&v=4">
-  </div>
+   </div>
   <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola+soy+Kevin;Soy+ingeniero+de+sistemas;Universidad+Catolica+de+Colombia;soy+fan+de+los+carros" alt="Typing SVG" /></a>
   </div>
