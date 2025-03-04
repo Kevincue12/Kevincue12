@@ -31,7 +31,7 @@
  *
  * @constructor
  * @param {string} location - Colombia.
- * @param {string} languagues - English.
+ * @param {string} languagues - English, Español.
  * @param {string} jobTitle - Software Engineer.
  * @param {string} hobbies - karting, Reading, gaming & playing music.
 ```
